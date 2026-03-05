@@ -1,0 +1,18 @@
+{
+    "name": "abash/anounce_restapi",
+    "description": "Api rest application annonces avec PHP POO MVC",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nosleepman1",
+            "email": "abdallahdiouf.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
